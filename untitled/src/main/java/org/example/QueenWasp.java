@@ -5,6 +5,7 @@ public class QueenWasp {
 
         int hitPoints = 80;
         int attackDmg = 7;
+        boolean queenAlive = true;
 
         int newHP = hitPoints - attackDmg;
 
